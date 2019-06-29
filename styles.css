@@ -12,6 +12,12 @@ h1 {
     margin-right: auto;
   }
 
+p {
+    padding-left: 0%;
+    padding-right: 60%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 #landstuhl {
     padding-left: 0%;
     padding-right: 60%;
