@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: auto;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+#landstuhl {
+    padding-left: 0%;
+    padding-right: 60%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#karachi {
+    padding-left: 0%;
+    padding-right: 60%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#addis-ababa {
+    padding-left: 0%;
+    padding-right: 60%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
